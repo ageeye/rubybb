@@ -1,0 +1,101 @@
+---
+core:
+  domains:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: domains
+    type: '1'
+    revision: '1'
+    description: 'The different domains.'
+  products:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: products
+    type: '1'
+    revision: '1'
+    description: 'A choice of products.'
+  classes:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: classes
+    type: '1'
+    revision: '1'
+    description: 'All tables are a class.'
+  types:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: types
+    type: '1'
+    revision: '1'
+    description: 'Types...'
+  binds:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: binds
+    type: '1'
+    revision: '1'
+    description: 'Binding'
+  users:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: users
+    type: '1'
+    revision: '1'
+    description: 'User & members'
+  passwords:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: passwords
+    type: '1'
+    revision: '1'
+    description: ';-)'
+  methods:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: methods
+    type: '1'
+    revision: '1'
+    description: '...'
+  joinpoints:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: joinpoints
+    type: '1'
+    revision: '1'
+    description: '...'
+  drivers:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: drivers
+    type: '1'
+    revision: '1'
+    description: '...'
+  properties:
+    authorid: '2'
+    timestamp: '1375460594'
+    productid: '1'
+    parent: core
+    matchcode: properties
+    type: '1'
+    revision: '1'
+    description: '...'
